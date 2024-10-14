@@ -5,3 +5,4 @@ Georgousis911.github.io
 $ curl --output /dev/null --silent --head --fail Georgousis.github.io && \
 echo "URL exists" || echo "URL does not exist"
 URL exists
+https://github.com/Georgousis911/progintro-hw0--Georgousis911-
