@@ -1,4 +1,4 @@
- Check out solution URL
+ #Check out solution URL
 $ cat solution.txt
 YourUsername.github.io
 # Ensure the URL exists
